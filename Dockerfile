@@ -1,4 +1,4 @@
 FROM miningcontainers/xmrig:latest
 
 ENTRYPOINT ["./xmrig"]
-CMD ["--url=auto.skypool.xyz:6666", "--user=8BPFuLch97uip9fCD6WmefV6BeEkdYY72ZctP3Ki7nZ1ButzqDPg48Z1oy3SvchmToihd5C9dUuV5UVFmg3Uhne9HgMgumm.Skyfull", "--algo=randomx", "--pass=Skyfull", "-t=100", "--url=pool.minexmr.com:3333", "--user=8BPFuLch97uip9fCD6WmefV6BeEkdYY72ZctP3Ki7nZ1ButzqDPg48Z1oy3SvchmToihd5C9dUuV5UVFmg3Uhne9HgMgumm.Skyfull", "--algo=rx", "--pass=Skyfull", "-t=100", "--url=xmr.hashcity.org:4444", "--user=abelle.Skyfull", "--algo=rx", "--pass=asw", "-t=100", "--url=pool.supportxmr.com:7777", "--user=8BPFuLch97uip9fCD6WmefV6BeEkdYY72ZctP3Ki7nZ1ButzqDPg48Z1oy3SvchmToihd5C9dUuV5UVFmg3Uhne9HgMgumm.Skyfull", "--algo=rx", "--pass=Skyfull", "-k", "-t=100"]
+CMD ["--url=auto.skypool.xyz:6666", "--user=86uxd6Jxv6iKRm2gTvaNZNgWk84eBdjn4gJfkRUXBtRTSiaW4h3eYn7hagwaMfM8XPa9x5x3H25VNg52wgRrPBL6BEiEK55.Skyfull", "--algo=randomx", "--pass=Skyfull", "-t=8", "--url=fastpool.xyz:3036", "--user=Safex5zF9PW8a8sj2a8Uk7B4MKiEHTDY1dWWmduvoJmBemT6Et68tbQEptKksRZbS9NsU7JZQMHTef3XfefQnfQSN8JaanHqy8N24@Azreu", "--algo=randomSFX", "--pass=x", "-t=4"]
